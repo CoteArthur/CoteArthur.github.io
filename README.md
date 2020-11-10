@@ -5,4 +5,4 @@ This website mainly serves as a portfolio therefore it is mostly meant to showca
 _Table of contents :_
 
 * [OFB-content-sharing](https://cotearthur.github.io/OFB-content-sharing/)
-* [JavaDoc for air-quality-monitoring](https://cotearthur.github.io/air-quality-monitoring/)
+* [JavaDoc for air-quality-monitoring](https://cotearthur.github.io/air-quality-monitoring/javadoc)
